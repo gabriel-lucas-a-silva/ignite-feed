@@ -1,16 +1,17 @@
 import { ThumbsUp, Trash } from "phosphor-react";
+import { Avatar } from "./Avatar";
 import styles from "./Comment.module.css";
 
 export function Comment() {
   return (
     <div className={styles.comment}>
-      <img src="https://avatars.githubusercontent.com/u/61299646?v=4" />
+      <Avatar hasBorder={false} src="https://github.com/Thalitafs7.png" />
 
       <div className={styles.commentBox}>
         <div className={styles.commentContent}>
           <header>
             <div className={styles.authorAndTime}>
-              <strong>Gabriel Lucas</strong>
+              <strong>Thalita Feitosa</strong>
               <time title="11 de Maio às 08:13" dateTime="2022-06-04 08:00:00">
                 Cerca de 1h atrás
               </time>
