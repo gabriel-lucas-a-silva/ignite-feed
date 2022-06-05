@@ -8,8 +8,6 @@ https://user-images.githubusercontent.com/103002208/172068839-37d5f6cb-0dc8-44b8
 
 You can check it out by clicking <a href="https://ignite-feed-eight.vercel.app/" target="_blank">here</a>.
 
-<br>
-
 ## Tecnhologies
 * HTML
 * CSS
